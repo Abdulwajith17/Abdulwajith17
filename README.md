@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul wajith</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abdul Wajith</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwajith17&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwajith17" /> </p>
 
